@@ -1,7 +1,5 @@
 package com.company.Chapter04MathematicalFunctionsCharactersAndStrings.ProgrammingExercises;
 
-import com.company.Chapter2ElementaryProgramming.SalesTax;
-
 import java.util.Scanner;
 
 public class BinaryToDecimal {

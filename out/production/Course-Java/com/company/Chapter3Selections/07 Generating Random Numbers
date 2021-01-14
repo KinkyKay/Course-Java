@@ -1,0 +1,7 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                GENERATING RANDOM NUMBERS
+------------------------------------------------------------------------------------------------------------------------
+You can use Math.random() to obtain a random double value between 0.0 and 1.0 excluding 1.0
+
+EXAMPLE: SubtractionQuiz.java
+         Lottery.java

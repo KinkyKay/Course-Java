@@ -1,7 +1,5 @@
 package com.company.Chapter03Selections.ProgEx;
 
-import sun.management.snmp.jvmmib.JVM_MANAGEMENT_MIBOidTable;
-
 import java.util.Random;
 import java.util.Scanner;
 
