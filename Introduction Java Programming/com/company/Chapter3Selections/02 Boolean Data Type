@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                    BOOLEAN DATA TYPE
+------------------------------------------------------------------------------------------------------------------------
+The boolean data type declares a variable with the value either true or false.
+
+    JAVA OPERATOR       MATH SYMBOL         NAME                        EXAMPLE (radius = 5)    RESULT
+    <                       <               Less then                   radius < 0              false
+    <=                      <=              Less then or equal to       radius <= 0             false
+    >                       >               Greater then                radius > 0              true
+    >=                      >=              Greater then or equal to    radius >= 0             true
+    ==                      =               Equal to                    radius == 0             false
+    !=                                      Not equal to                radius != 0             true
+
+EXAMPLE: AdditionQuiz.java
