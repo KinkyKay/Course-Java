@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                LOGICAL OPERATORS
+------------------------------------------------------------------------------------------------------------------------
+The logical operators !, &&, ||, and ^ can be used to create a compound Boolean expression.
+
+        OPERATOR        NAME            DESCRIPTION
+            !           not             Logical negation
+            &&          and             Logical conjunction
+            ||          or              Logical disjunction
+            ^           exclusive or    Logical exclusion
+
+EXAMPLE: TestBooleanOperators.java
+         LeapYear.java
