@@ -9,8 +9,8 @@ public class MultiplicationTable {
         // Display the number title
         System.out.print("  ");
         for (int j = 1; j <= 9; j++)
-            System.out.print("  " + j);
-        System.out.println("\n-----------------------------------");
+            System.out.print("   " + j);
+        System.out.println("\n-----------------------------------------");
 
         // Display table body
         for (int i = 1; i <= 9; i++) {
